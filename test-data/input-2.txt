@@ -1,0 +1,2 @@
+# nem inicializált hajóval próbál meg tüzelni
+TORPEDO,SINGLE
